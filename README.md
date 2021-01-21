@@ -1,2 +1,2 @@
 # DeepLearning
-Deep Learning code in my study.
+Deep Learning code in my master course study.
